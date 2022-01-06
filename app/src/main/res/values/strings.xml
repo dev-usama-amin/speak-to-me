@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Speak to me</string>
+    <string name="you_need_some_mandatory">You need to give some mandatory permissions to continue. Do you want to give permission?</string>
+</resources>
